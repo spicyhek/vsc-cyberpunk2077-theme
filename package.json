@@ -1,0 +1,33 @@
+{
+  "name": "vsc-cyberpunk2077-theme",
+  "displayName": "Cyberpunk2077 UI Theme",
+  "description": "A Cyberpunk2077 theme that uses the game's UI colors",
+  "publisher": "spicyhek",
+  "galleryBanner": {
+    "color": "#e06c75",
+    "theme": "dark"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords":[
+    "Cyberpunk 2077",
+    "cyberpunk"
+  ],
+
+  "icon": "images/icon.ico",
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "vsc-cyberpunk2077-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsc-cyberpunk2077-theme-color-theme.json"
+      }
+    ]
+  }
+}
