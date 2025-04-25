@@ -1952,7 +1952,7 @@
 	  "editor.foldBackground": "#5aedf44a",
 	  "editorOverviewRuler.background": "#5aedf481",
 	  "editorOverviewRuler.border": "#5aedf481",
-	  "editorError.foreground": "#f04141",
+	  "editorError.foreground": "#f90000",
 	  "editorError.background": "#ea544d00",
 	  "editorError.border": "#ffffff00",
 	  "editorWarning.foreground": "#ecca30",
@@ -2103,6 +2103,7 @@
 	  "breadcrumb.activeSelectionForeground": "#5aedf458",
 	  "editorGutter.commentRangeForeground": "#ff9393a1",
 	  "debugExceptionWidget.background": "#160000",
-	  "debugExceptionWidget.border": "#ff9393"
+	  "debugExceptionWidget.border": "#ff9393",
+	  "list.errorForeground": "#ff0000"
 	}
   }

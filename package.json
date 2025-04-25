@@ -18,6 +18,10 @@
     "Cyberpunk 2077",
     "cyberpunk"
   ],
+"repository": {
+  "type": "git",
+  "url": "https://github.com/spicyhek/vsc-cyberpunk2077-theme.git"
+},
 
   "icon": "images/icon.ico",
 
