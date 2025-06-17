@@ -1,5 +1,5 @@
 {
-  "name": "VSCyberpunk 2077",
+  "name": "vsc-cyberpunk2077-theme-color-theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1952,7 +1952,7 @@
     "editor.foldBackground": "#5aedf44a",
     "editorOverviewRuler.background": "#5aedf481",
     "editorOverviewRuler.border": "#5aedf481",
-    "editorError.foreground": "#f04141",
+    "editorError.foreground": "#d50000",
     "editorError.background": "#ea544d00",
     "editorError.border": "#ffffff00",
     "editorWarning.foreground": "#ecca30",
@@ -2047,7 +2047,7 @@
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
     "gitDecoration.untrackedResourceForeground": "#73c991",
     "editorMarkerNavigation.background": "#160000",
-    "editorMarkerNavigationError.background": "#ff0000e0",
+    "editorMarkerNavigationError.background": "#d50000",
     "editorMarkerNavigationWarning.background": "#ffd100",
     "editorMarkerNavigationInfo.background": "#11e0b3d3",
     "merge.currentHeaderBackground": "#367366",
@@ -2103,8 +2103,6 @@
     "breadcrumb.activeSelectionForeground": "#5aedf458",
     "editorGutter.commentRangeForeground": "#ff9393a1",
     "debugExceptionWidget.background": "#160000",
-    "debugExceptionWidget.border": "#ff9393",
-    "editorError.foreground": "#f04141"
-
+    "debugExceptionWidget.border": "#ff9393"
   }
 }
